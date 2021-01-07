@@ -66,7 +66,7 @@ forest edge or open field, including paddy field, often standing on the uncovere
 
 
 <div id="footer">
-Copyright W3School.com.cn
+grace587.github.io/Falcon5.github.io/
 </div>
 
 </body>
