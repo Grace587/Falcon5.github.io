@@ -5,10 +5,8 @@
 </div>
 
 <div id="nav">
-<a href='Grace587/Falcon3.github.io/'>Introduce</a>
-<a href='Grace587/Falcon3.github.io' target="_bank"></a>
-<a href='Grace587/Falcon3.github.io'>type</a>
-<a href='Grace587/Falcon3.github.io' target="_bank"></a>
+<button onclick="window.location.href='https://grace587.github.io/Falcon3.github.io/'">Introduce</button>
+<button onclick="window.location.href='https://grace587.github.io/Falcon3.github.io/'">Type</button>
 </div>
 
 
